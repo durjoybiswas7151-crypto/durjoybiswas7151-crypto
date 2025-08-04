@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSxtqo6LA0NhwdRX3tNQb8hXF22BpbJcQiMg&s">
+<img src="">
 <h1 align="center">Hallo 👋, I'm Durjoy Biswas</h1>
 <h3 align="center">Passionate web Developer - Clean Code - Web solutions</h3>
 
